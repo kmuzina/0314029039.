@@ -1,0 +1,190 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[croatian]{babel}
+\usepackage{hyperref}
+
+\title{IT- Opis konfiguracije osobnog računala}
+\author{Karlo Mužina}
+\date{Siječanj 2024}
+
+\begin{document}
+
+\maketitle
+
+\section{Procesor}
+Model: Intel Core i7-12700K \\
+Brzina: 3.6 GHz (bazna) - 5.0 GHz \\
+Broj jezgri: 12 \\
+Broj niti: 20 \\
+Cijena: 346,07€ (s popustom), 464,99€ (bez popusta) \\
+Razlog za korištenje je jer nudi visoke performanse i što zahtjevne zadatke čini prikladnima poput obrade podataka, 3D modeliranja i igranju raznih tipova igara. \\
+\url{https://www.mall.hr/procesori/intel-core-i7-12700k-procesor-365ghz-25mb-lga1700-uhd770-bez-hladnjaka-bx8071512700k-?tab=description}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Procesor.jpg}
+    \caption{Intel Core i7-12700K}
+\end{figure}
+
+\section{Memorija (RAM)}
+Model: Crucial \\
+Kapacitet: 32 GB \\
+Tip: DDR4 \\
+Brzina: 3200 MHz \\
+Cijena: 76,34€ \\
+Razlog: S 32 GB RAM-a sustav ima dovoljnu brzinu za pokretanje više multitaskinga i rad sa zahtjevnim aplikacijama te brzina od 3200 MHz poboljšava brzinu sustava. \\
+\url{https://iponcomp.hr/shop/proizvod/crucial-32gb-notebook-ddr4-3200mhz-cl22-ct32g4sfd832a/1851648?utm_source=nabava.net&utm_campaign=nabava.net&utm_medium=click}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Memorija.jpeg}
+    \caption{Crucial 1x32GB}
+\end{figure}
+
+\newpage
+
+\section{Tvrdi Disk}
+Model: Silicon Power \\
+Kapacitet: 512 GB SSD \\
+Interface: SATA III \\
+Brzina čitanja: 500 MB/s \\
+Brzina pisanja: 450 MB/s \\
+Cijena: 36,00€ \\
+Razlog: Brže čitanje i pisanje podataka u usporedbi HDD-ima Što rezultira brže učitavanje sustava, aplikacija i datoteka. \\
+\url{https://www.hgspot.hr/ssd-disk-512-gb-silicon-power-ace-a55-2-5-sata-iii} \\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{SSD disk.jpg}
+    \caption{Silicon Power SSD}
+\end{figure}
+
+\newpage
+
+\section{Grafička Kartica GPU}
+Model: NVIDIA GeForce RTX 3080 \\
+Vrsta: Grafička kartica visokih performansi \\
+Video Memorija: 10 GB GDDR6X \\
+Radni takt: 1710MHz \\
+Cijena: 749,00€ (s popustom), 899,00€ (bez popusta) \\
+Razlog: Pruža visoke performanse u igrama i obradi videa i ima veliku količinu video memorije i sastoji se od tehnologije Ray Tracinga. \\
+\url{https://www.mobiri.hr/proizvod/biostar-rtx3080-10gb-lhr-vn3806rmt3/?utm_source=nabava.net&utm_campaign=nabava.net&utm_medium=click} \\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{RTX3080.jpg}
+    \caption{RTX 3080}
+\end{figure}
+
+\newpage
+
+\section{Matična ploča}
+Model: ASUS ROG Strix Z390-E Gaming \\
+Čip: Intel Z390 \\
+Cijena: 278,59€ \\
+Razlog: Podržava visoke brzine RAM-a te nudi značajke poput Wi-Fi-a i Bluetootha. \\
+\url{https://www.acgroup.megashop.hr/product/1855998-ASUS-ROG-STRIX-Z390-E-GAMING-MATICNA-PLOCA-BAZA-INTEL-1151V2-FAKTOR-OBLIKA-} \\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Matična.jpg}
+    \caption{Asus ROG STRIX Z390-E}
+\end{figure}
+
+\newpage
+
+\section{Napajanje}
+Model: THERMALTAKE \\
+Snaga: 750 W \\
+Certifikat: 80 PLUS Gold \\
+Cijena: 225,03 € \\
+Razlog: Ukazuje na visoku energetsku učinkovitost napajanja. \\
+\url{https://laptopi.hr/informatika/komponente/napajanja/napajanje-thermaltake-ps-tpd-0750fnfape-3-750-w-80-plus-platinum-detail?utm_source=nabava.net&utm_campaign=nabava.net&utm_medium=click}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Napajanje.jpg}
+    \caption{THERMALTAKE 750W}
+\end{figure}
+
+\newpage
+
+\section{Kućište}
+Model: Fractal Meshify 2 Lite \\
+Tip: Full Tower, kaljeno staklo \\
+Ugrađeni ventilatori \\
+Cijena: 164,01 € \\
+Razlog: Full Tower kućište pruža dovoljno prostora za proširenje, bolju ventilaciju i organizaciju kabela. \\
+\url{https://www.instar-informatika.hr/kuciste-fractal-meshify-2-lite-full-tower-kaljeno-staklo-bez-napaja/146968/product/} \\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Kućište.jpg}
+    \caption{Fractal Meshify 2 Lite}
+\end{figure}
+
+\newpage
+
+\section{Operativni sustav}
+Windows 10 Pro 64-bit \\
+Cijena: 39,98 € \\
+Razlog: Windows 10 Pro pruža široku podršku aplikacijama, profesionalne značajke, sigurnost i kompatibilnost s većinom hardvera. \\
+\url{https://ibyte.hr/MICROSOFT-WINDOWS-10-PRO-p604756162} \\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Windows.png}
+    \caption{Windows 10 PRO}
+\end{figure}
+
+\newpage
+
+\section{Tipkovnica}
+Model: Corsair K95 RGB Platinum XT \\
+Cijena: 149.99€ \\ 
+Razlog: Estetski privlačna te koristi mehaničke tipke. \\
+\url{https://www.amazon.com/Corsair-Platinum-Mechanical-Keyboard-Backlit/dp/B082GR814B?th=1} \\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Tipkovnica.jpg}
+    \caption{Corsair K95 RGB Platinum XT}
+\end{figure}
+
+\newpage
+
+\section{Miš}
+Model: Logitech g502 HERO \\
+Cijena: 85,68€ \\ 
+Razlog: Precizni senzor, podesiva masa za bolju i lakšu pokretljivost mišem \\
+\url{https://www.mall.hr/misevi-i-tipkovnice/logitech-g502-hero-gaming-mis?gad_source=1&gclid=CjwKCAiAqY6tBhAtEiwAHeRopb8E_3NfCY8XNO2fqNybWzrPQdsNSUs1L_w6qMSz8NQlsm5OSCkMPxoCuiIQAvD_BwE} \\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Miš.jpg}
+    \caption{Logitech g502 HERO}
+\end{figure}
+
+\newpage
+
+\section{Monitor}
+Model: ASUS ROG Swift PG279Q \\
+Cijena: 779,38€ \\ 
+Razlog: Visoka razlučivost. \\
+\url{https://www.mall.hr/monitori-27-ili-vise/asus-ips-gaming-monitor-pg279q} \\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Monitor.png}
+    \caption{ASUS ROG Swift PG279Q}
+\end{figure}
+
+\newpage
+
+\section{Slušalice}
+Model: SteelSeries Arctis Pro Wireless \\
+Cijena: 352,08€ \\ 
+Razlog: Bežićnost, mikrofon, visokokvalitetan zvuk, kompatibilne s različitim platformama poput PC, Xbox, PlayStation i drugo. \\
+\url{https://www.amazon.com/Corsair-Platinum-Mechanical-Keyboard-Backlit/dp/B082GR814B?th=1} \\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Slusalice.jpg}
+    \caption{SteelSeries Arctis Pro Wireless}
+\end{figure}
+
+Ukupna cijena: 3.282,15€
+
+Zaključak:
+Navedene komponente su odabrane u svrhu stvaranja snažnog računala prilagođenog zahtjevnim zadacima poput igranja igara visoke razlučivosti, video obrade i drugih računalno zahtjevnih aktivnosti. \\
+\end{document}
+
+\end{document}
